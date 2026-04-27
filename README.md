@@ -1,6 +1,6 @@
 # SCM_HW1_Khalid_ALashjaee
 
-
+this Repository is for Software Configuration Management First Assignment
 
 # SCM Best Practices
 
